@@ -6,7 +6,7 @@ I have programmed this app to NOT collect any personally identifiable informatio
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely help you.
 
-Yours sincerely,
-Eemeli Mark
-Finland
-eemelimark@gmail.com
+Yours sincerely  
+Eemeli Mark  
+Finland  
+eemelimark@gmail.com  
